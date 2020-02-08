@@ -23,7 +23,6 @@ int main() {
 			}
 		}
 	}
-
 	std::cout << '<';
 	for (int i = 0; i < n -1; i++) {
 		std::cout << arr[i] << ", ";

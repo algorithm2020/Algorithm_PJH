@@ -5,6 +5,7 @@ using namespace std;
 
 vector<int> solution(vector<int> prices) {
     vector<int> answer;
+    
     int t =0;
     for(int i =0; i< prices.size(); i++){
         t =0;

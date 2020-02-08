@@ -15,7 +15,6 @@ int main() {
 	}
 	int idx = 1;
 	for(int i =0; i< n; i++){
-		
 		if (stack.empty() || stack.back() != initArr[i]) {
 			while (true) {
 				if (idx > n) {
