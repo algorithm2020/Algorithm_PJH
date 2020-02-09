@@ -3,5 +3,6 @@
 
 ## 2월 11일 화요일
 - 백준 암호 만들기 <https://www.acmicpc.net/problem/1759>
+- 백준 트리의 지름 <https://www.acmicpc.net/problem/1967>
 - 백준 내리막길 <https://www.acmicpc.net/problem/1759>
 - 백준 정수 삼각형 <https://www.acmicpc.net/problem/1932>
