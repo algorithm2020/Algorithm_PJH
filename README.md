@@ -12,3 +12,4 @@
 - 백준 케빈 베이컨의 6단계 법칙 <https://www.acmicpc.net/problem/1389>
 - 백준 역사 <https://www.acmicpc.net/problem/1613>
 - 백준 숨바꼭질 <https://www.acmicpc.net/problem/1697>
+- 백준 ABCDE <https://www.acmicpc.net/problem/13023>
