@@ -5,11 +5,6 @@
 
 using namespace std;
 
-bool comp(pair<int,int> a, pair<int,int> b){
-    if(a.first < b.first) return true;
-    else return false;
-}
-
 int solution(vector<vector<int>> routes) {
     int answer = 0;
     
