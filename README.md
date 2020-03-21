@@ -15,3 +15,6 @@
 - 백준 ABCDE <https://www.acmicpc.net/problem/13023>
 - 백준 탈출 <https://www.acmicpc.net/problem/3055>
 - 백준 빙산 <https://www.acmicpc.net/problem/2573>
+
+# 3월 28일 토요일
+- 백준 테트로미노 <https://www.acmicpc.net/problem/14500>
